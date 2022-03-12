@@ -1,0 +1,19 @@
+{
+    "name": "Z\u00e9 Cipriano",
+    "short_name": "Z\u00e9 Cipriano",
+    "icons": [
+        {
+            "src": "/assets/images/favicon/android-chrome-192x192.png?v=ngjYb5No3y",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/images/favicon/android-chrome-512x512.png?v=ngjYb5No3y",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#fafafa",
+    "background_color": "#fafafa",
+    "display": "standalone"
+}
