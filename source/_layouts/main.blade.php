@@ -7,7 +7,6 @@
         <meta name="description" content="{{ $page->description }}">
         <title>{{ $page->title }}</title>
         <link rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}">
-        <script defer src="{{ mix('js/main.js', 'assets/build') }}"></script>
 
         <link rel="apple-touch-icon" sizes="180x180" href="{{ $page->baseUrl }}/assets/images/favicon/apple-touch-icon.png?v=ngjYb5No3y">
         <link rel="icon" type="image/png" sizes="32x32" href="{{ $page->baseUrl }}/assets/images/favicon/favicon-32x32.png?v=ngjYb5No3y">
