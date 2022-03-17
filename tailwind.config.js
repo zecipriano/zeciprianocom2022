@@ -5,6 +5,9 @@ module.exports = {
     'source/**/*.html',
   ],
   theme: {
+    fontFamily: {
+      'sans': ['Inter', 'Arial', 'sans-serif']
+    },
     extend: {},
   },
   variants: {

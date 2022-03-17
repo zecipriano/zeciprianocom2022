@@ -3,8 +3,8 @@
 @section('body')
 <div class="p-8">
     <div class="mb-8">
-        <h1 class="text-3xl font-bold">Zé Cipriano</h1>
-        <p>Programador web com mais de 10 anos de experiência como freelancer / independente, especializado em PHP e Laravel.</p>
+        <h1 class="text-5xl font-black uppercase mb-2">Zé Cipriano</h1>
+        <p class="text-lg">Programador web com mais de 10 anos de experiência como freelancer / independente, especializado em PHP e Laravel.</p>
     </div>
 
     <div class="mb-8">
