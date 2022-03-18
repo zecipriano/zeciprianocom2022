@@ -1,9 +1,9 @@
 @extends('_layouts.main')
 
 @section('body')
-<div class="p-8 border-2 border-primary max-w-5xl grid grid-cols-1 md:grid-cols-golden gap-8">
+<div class="p-8 border-2 border-primary max-w-5xl grid grid-cols-1 md:grid-cols-golden gap-10">
     <div>
-        <h1 class="text-5xl font-black uppercase mb-2">Zé Cipriano</h1>
+        <img alt="Zé Cipriano" src="{{ $page->baseUrl }}/assets/images/logo.svg">
     </div>
 
     <div>
