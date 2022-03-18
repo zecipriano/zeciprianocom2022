@@ -17,7 +17,11 @@ module.exports = {
                 900: '#292929'
             }
         },
-        extend: {},
+        extend: {
+            gridTemplateColumns: {
+                'golden': '1fr 1.618fr',
+            }
+        },
     },
     variants: {
         extend: {},
