@@ -1,7 +1,7 @@
 @extends('_layouts.main')
 
 @section('body')
-<div class="p-8">
+<div class="p-8 border-2 border-primary max-w-5xl">
     <div class="mb-8">
         <h1 class="text-5xl font-black uppercase mb-2">Zé Cipriano</h1>
         <p class="text-lg">Programador web com mais de 10 anos de experiência como freelancer / independente, especializado em PHP e Laravel.</p>
