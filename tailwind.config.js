@@ -8,6 +8,11 @@ module.exports = {
     fontFamily: {
       'sans': ['Inter', 'Arial', 'sans-serif']
     },
+    colors: {
+      transparent: 'transparent',
+      current: 'currentColor',
+      primary: '#d10007'
+    },
     extend: {},
   },
   variants: {
