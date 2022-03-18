@@ -20,7 +20,7 @@
 
         <script defer data-domain="zecipriano.com" src="https://s.zecipriano.com/script.js"></script>
     </head>
-    <body class="text-gray-900 font-sans antialiased p-2 flex min-h-screen items-center justify-center">
+    <body class="bg-gray-50 text-gray-900 font-sans antialiased p-2 flex min-h-screen items-center justify-center">
         @yield('body')
     </body>
 </html>
