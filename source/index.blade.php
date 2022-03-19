@@ -13,15 +13,10 @@
         @include('_partials.contacts')
 
         <div class="mb-8">
-            <p>GitHub: <a href="https://github.com/zecipriano" target="_blank">github.com/zecipriano</a></p>
-            <p>LinkedIn: <a href="https://www.linkedin.com/in/zecipriano/" target="_blank">linkedin.com/in/zecipriano</a></p>
-            <p>Polywork: <a href="https://www.polywork.com/zecipriano" target="_blank">polywork.com/zecipriano</a></p>
-            <p>Twitter: <a href="https://twitter.com/zecipriano" target="_blank">twitter.com/zecipriano</a></p>
-        </div>
-
-        <div>
             <p>Curriculum Vitae (pdf): <a href="{{ $page->baseUrl }}/assets/files/curriculum_vitae__ze_cipriano__pt.pdf" target="__blank">[Português]</a> <a href="{{ $page->baseUrl }}/assets/files/curriculum_vitae__ze_cipriano__en.pdf" target="__blank">[English]</a></p>
         </div>
+
+        @include('_partials.links')
     </div>
 </div>
 @endsection
