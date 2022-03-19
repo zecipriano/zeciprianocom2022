@@ -10,10 +10,7 @@
     <div>
         <p class="text-lg mb-8">Programador web com mais de 10 anos de experiência como freelancer / independente, especializado em PHP e Laravel.</p>
 
-        <div class="mb-8">
-            <p>Email: <a href="mailto:ze@zecipriano.com" target="_blank">ze@zecipriano.com</a></p>
-            <p>Telemóvel: (+351) 91 730 66 56</p>
-        </div>
+        @include('_partials.contacts')
 
         <div class="mb-8">
             <p>GitHub: <a href="https://github.com/zecipriano" target="_blank">github.com/zecipriano</a></p>
