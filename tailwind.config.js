@@ -4,6 +4,7 @@ module.exports = {
         'source/**/*.md',
         'source/**/*.html',
     ],
+    darkMode: 'media',
     theme: {
         fontFamily: {
             'sans': ['Inter', 'Arial', 'sans-serif']
