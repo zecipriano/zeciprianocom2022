@@ -17,8 +17,6 @@
         <meta name="msapplication-TileColor" content="#d10007">
         <meta name="msapplication-config" content="{{ $page->baseUrl }}/assets/images/favicon/browserconfig.xml?v=ngjYb5No3y">
         <meta name="theme-color" content="#fafafa">
-
-        <script defer data-domain="zecipriano.com" src="https://s.zecipriano.com/script.js"></script>
     </head>
     <body class="bg-gray-50 dark:bg-gray-900 text-gray-900 dark:text-gray-50 font-sans antialiased p-2 flex min-h-screen items-center justify-center">
         @yield('body')
