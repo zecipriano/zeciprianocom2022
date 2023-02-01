@@ -8,7 +8,7 @@
     </div>
 
     <div>
-        <p class="md:text-lg mb-8">Programador web com mais de 10 anos de experiência como freelancer / independente, especializado em PHP e Laravel.</p>
+        <p class="md:text-lg mb-8">Programador web com mais de 10 anos de experiência como trabalhador independente. Especializado em PHP e Laravel.</p>
 
         @include('_partials.contacts')
 
